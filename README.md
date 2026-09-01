@@ -1,6 +1,6 @@
 # Exp 5 Apriori Algorithm
 
-**Date:**
+
 
 ## AIM:
 
