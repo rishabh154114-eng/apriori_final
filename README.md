@@ -1,10 +1,6 @@
 # Exp 5 Apriori Algorithm
 
-**Name:** Royce Niran George A
 
-**Reg.No:** 212223060231
-
-**Date:** 22/08/2026
 
 ## AIM:
 
